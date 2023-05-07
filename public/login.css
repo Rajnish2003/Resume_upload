@@ -10,7 +10,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background-image: linear-gradient(to top, #ffffff, #e3effb, #bae4ed, #9cd8ca, #9fc697);
+	background-image: linear-gradient(to top, #f1ccf3, #d1dbff, #afeaff, #a4f5fd, #bafbe1);
 	height: 100vh;
 	overflow: hidden;
 }
@@ -21,7 +21,7 @@ body {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	width: 400px;
-	background-image: linear-gradient(to bottom, #e6eee5, #d4e4d1, #c2dabe, #b0d0aa, #9fc697);
+	background-image: linear-gradient(to bottom, #f1ccf3, #d1dbff, #afeaff, #a4f5fd, #bafbe1);
 	border-radius: 10px;
 	box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
 }
